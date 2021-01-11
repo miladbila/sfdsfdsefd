@@ -13,8 +13,6 @@ from collections import deque
 
 import requests
 
-from cowpy import cow
-
 from userbot import CMD_HELP
 from userbot.events import register
 
